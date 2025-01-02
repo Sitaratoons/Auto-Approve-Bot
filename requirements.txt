@@ -2,6 +2,3 @@ pyrofork
 tgcrypto
 dnspython
 motor
-Flask
-gunicorn
-aiohttp
